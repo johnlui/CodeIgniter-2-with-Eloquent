@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "application/models"
+    ]
+  }
+}
