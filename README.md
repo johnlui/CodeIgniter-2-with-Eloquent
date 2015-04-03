@@ -197,4 +197,4 @@ CodeIgniter 3 正处于 DEV 阶段，原生支持 Composer，可以直接修改 
 
 ### License
 
-CodeIgniter-2-with-Eloquent is an open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+CodeIgniter-2-with-Eloquent is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
